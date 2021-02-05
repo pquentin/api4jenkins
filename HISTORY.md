@@ -1,6 +1,10 @@
 Release History
 ===============
-1.2 (2020-01-31)
+1.3 (2021-02-??)
+- Support save artifacts as zip or only one file.
+- Support pythonic way to iterate jenkins and folder with depth.
+
+1.2 (2021-01-31)
 ----------------
 - Support to enable, disable, scan, get_scan_log for `WorkflowMultiBranchProject`
 - Call `Jenkins.get_job` for getting parent of `Job`
